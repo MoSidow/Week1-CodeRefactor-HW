@@ -2,7 +2,7 @@
 
 ## Description
 
-In this weeks homework we were given a starter to refactor so that it meets the Acceptance Criteria. The starter code given has been refactored so that the HTML elements and CSS selectors and properties are organized to follow semantic structure.
+In this weeks homework we were given a starter code to refactor so that it meets the Acceptance Criteria. The starter code given has been refactored so that the HTML elements and CSS selectors and properties are organized to follow semantic structure.
 
 ## Screenshot of Application
 
