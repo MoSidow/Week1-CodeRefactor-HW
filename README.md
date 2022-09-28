@@ -10,4 +10,4 @@ In this weeks homework we were given a starter to refactor so that it meets the 
 
 ## Link to Deployed Application
 
-<a href="https://mosidow.github.io/Week1-CodeRefactor-HW/">
+https://mosidow.github.io/Week1-CodeRefactor-HW
